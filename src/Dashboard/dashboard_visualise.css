@@ -1,0 +1,86 @@
+@media screen and (max-width: 500px) {
+    .containermain {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 200px;
+    }
+
+    .barchart {
+        height: 200px;
+        width: 250px;
+    }
+
+    .barpaper {
+        height: 400px;
+        width: 285px;
+    }
+
+    .piechart {
+        margin-left: 15%;
+        height: 200px;
+        width: 200px;
+
+    }
+
+    .piepaperheight {
+        height: 250px;
+        width: 285px;
+    }
+
+    .stackerbarchartclient {
+        height: 350px;
+        width: 260px;
+    }
+
+    .stackedpaperclient {
+        width: 285px;
+    }
+
+    .stackedsupplier {
+        height: 350px;
+        width: 260px;
+    }
+
+    .stackersupplierpaper {
+        width: 285px;
+    }
+}
+
+@media screen and (min-width: 540px) {
+
+    .containermain {
+        margin-top: 60px;
+        margin-bottom: 20px;
+    }
+
+    .piechart {
+        height: 350px;
+        width: 380px;
+    }
+
+    .barpaper {
+        height: 400px;
+    }
+
+    .piepaperheight {
+        height: 400px;
+        width: 420px;
+    }
+
+    .stackerbarchartclient {
+        height: 350px;
+    }
+
+    .stackedpaperclient {
+        height: 350px;
+    }
+
+    .stackedsupplier {
+        height: 350px;
+    }
+
+    .stackersupplierpaper {
+        height: 350px;
+        width: 620px;
+    }
+}
